@@ -1,6 +1,6 @@
 # panda
 
-<p><img src="https://raw.githubusercontent.com/stormtea123/panda/master/icon/png.png" alt="icon"></p>
+<p><img src="https://raw.githubusercontent.com/stormtea123/panda/master/icon.png" alt="icon" width="380" height="380"></p>
 
 小熊猫是一款字体处理工具，支持osx32、osx64、win32、win64，简单任性。
 
