@@ -20,7 +20,7 @@
 
 <p><img src="https://raw.githubusercontent.com/stormtea123/panda/master/demo/3.png" alt="icon"></p>
 
-3.从中文字体中过滤出需要的字形，
+3.从中文字体中过滤出需要的字形
 
 <p><img src="https://raw.githubusercontent.com/stormtea123/panda/master/demo/4.png" alt="icon"></p>
 
